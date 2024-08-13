@@ -1,0 +1,19 @@
+.PredictedBlock {
+  font-family: 'Montserrat';
+  display: flex;
+  width: 300px;
+  height: 210px;
+  padding: 16px;
+  flex-direction: column;
+  box-shadow: 1px 1px 20px #b6e0fb;
+  border-radius: 15px;
+  margin: 0 15px;
+}
+
+.predictedInfo {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.01em;
+  color: #2d2424;
+}
