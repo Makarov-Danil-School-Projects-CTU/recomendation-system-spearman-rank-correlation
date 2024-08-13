@@ -1,3 +1,5 @@
+Keywords: React, Python, Flast, Recommendation system, JWT
+
 # Movie Recommendation System
 
 This project implements a Movie Recommendation System that serves users and their movie recommendations. 
