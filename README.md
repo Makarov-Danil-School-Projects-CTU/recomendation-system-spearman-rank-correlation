@@ -1,9 +1,9 @@
-Keywords: React, Python, Flast, Recommendation system, JWT
+Keywords: React.js, Python, Flask, Recommendation system, JWT
 
 # Movie Recommendation System
 
 This project implements a Movie Recommendation System that serves users and their movie recommendations. 
-It is built with Python using Flask + ReactJS, and it utilizes collaborative filtering and correlation-based 
+It is built with Python using Flask + React.js, and it utilizes collaborative filtering and correlation-based 
 recommendation algorithms.
 
 ## Overview
@@ -16,19 +16,19 @@ The underlying assumption of the collaborative filtering approach is that if a u
 opinion as a user B on a set of items, A is likely to have B's opinion for a given item that A has 
 not rated yet.
 
-In this application, the collaborative filtering method is complemented with the use of Spearman's rank 
-correlation coefficient for quantifying the statistical relationships between users' movie ratings.
+In this application, the collaborative filtering method is complemented by the use of **Spearman's rank 
+correlation** coefficient for quantifying the statistical relationships between users' movie ratings.
 
 ## Concepts
 
-### Collaborative Filtering
+## Collaborative Filtering
 
 Collaborative filtering algorithms predict a user's interests by collecting preferences from many users. 
 This technique assumes that if two users agree on one issue, 
 they are likely to agree on others as well. In the context of this movie recommendation system, 
 collaborative filtering is used to suggest movies that similar users have liked in the past.
 
-### Correlation-Based Recommendation
+## Correlation-Based Recommendation
 
 In addition to collaborative filtering, this project uses a correlation-based recommendation system. 
 Specifically, it employs the Spearman's rank correlation coefficient, 
