@@ -19,8 +19,6 @@ not rated yet.
 In this application, the collaborative filtering method is complemented by the use of **Spearman's rank 
 correlation** coefficient for quantifying the statistical relationships between users' movie ratings.
 
-## Concepts
-
 ## Collaborative Filtering
 
 Collaborative filtering algorithms predict a user's interests by collecting preferences from many users. 
